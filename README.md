@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Shivam Arora's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam017arora)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **shivam017arora/shivam017arora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
