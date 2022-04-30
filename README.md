@@ -28,6 +28,10 @@ Connect.
 <li> Email: arorashivam@protonmail.com </li>
 <li> Portfolio: https://shivam017arora.github.io/portfolio/ </li>
 
+# Contributions.
+
+<img width="1251" alt="Screenshot 2022-04-30 at 5 36 34 PM" src="https://user-images.githubusercontent.com/26146104/166104866-86129a8f-c304-4af8-9325-6a53435d68d1.png">
+
 # Stats.
 
 
