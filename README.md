@@ -34,7 +34,6 @@ Connect.
 
 # Stats.
 
-
 [![Shivam Arora's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam017arora)](https://github.com/anuraghazra/github-readme-stats)
 
 
