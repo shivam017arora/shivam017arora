@@ -26,7 +26,7 @@ Currently Learning.
 
 Connect.
 <li> Email: arorashivam@protonmail.com </li>
-<li> Portfolio: https://shivam017arora.github.io/portfolio/ </li>
+<li> LinkedIn: https://www.linkedin.com/in/shivam017arora/  </li>
 
 # Stats.
 
