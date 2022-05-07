@@ -15,13 +15,13 @@ Core.
 
 Projects.
 1. Customer-Segmenting-Scoring: https://github.com/shivam017arora/Customer-Segmentation-using-RFM (ML)
-2. Netflix-Clone: https://github.com/shivam017arora/NetflixApp (frontend) 
-3. Notes: https://github.com/shivam017arora/NotesApp (full-stack) 
-4. WasteItNot: https://github.com/shivam017arora/Waste-it-not---BCA (android) 
+2. Netflix-Clone: https://github.com/shivam017arora/NetflixApp (React.JS) 
+3. LinkedIn-Clone: https://github.com/shivam017arora/LinkedInApp (React.JS with Redux and Firestore) 
+4. WasteItNot: https://github.com/shivam017arora/Waste-it-not---BCA (Java and Firestore) 
 
 Currently Learning.
 <li> Web3 </li>
-<li> Web Security </li>
+<li> NLP Development </li>
 <br>
 
 Connect.
