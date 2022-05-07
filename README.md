@@ -8,8 +8,8 @@ About.
 3. Tools I use: Python, JavaScript and SQL. 
 
 Core.
-1. ✨ 2 Bronze Solutions on Kaggle 
-2. 💡 Top 1% Solution on Rossmann Sales Comp. 
+1. ✨ Top 1 in in-class Kaggle Competition at University. 
+2. 💡 Top 1% Solution in Sales Forecasting: https://www.kaggle.com/code/shivam017arora/rossmann-sales-prediction-top-1-solution 
 3. Technical Skills: MLOps, Data-Pipelines, Dashboard/Data-Viz, Full-Stack-Dev, Data-Analytics
 4. Soft Skills: Communication, Intellectual Curiosity, Business Acumen
 
