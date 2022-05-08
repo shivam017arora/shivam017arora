@@ -27,6 +27,7 @@ Currently Learning.
 Connect.
 <li> Email: arorashivam@protonmail.com </li>
 <li> LinkedIn: https://www.linkedin.com/in/shivam017arora/  </li>
+<li> Medium: https://medium.com/@shivam017arora </li>
 
 # Stats.
 
