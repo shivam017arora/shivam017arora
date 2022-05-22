@@ -15,9 +15,9 @@ Core.
 
 Projects.
 1. Customer-Segmenting-Scoring: https://github.com/shivam017arora/Customer-Segmentation-using-RFM (ML)
-2. Netflix-Clone: https://github.com/shivam017arora/NetflixApp (React.JS) 
-3. LinkedIn-Clone: https://github.com/shivam017arora/LinkedInApp (React.JS with Redux and Firestore) 
-4. Scrape: https://github.com/shivam017arora/Waste-it-not---BCA (Java and Firestore) 
+2. Stock-Analysis-using-NLP: https://github.com/shivam017arora/Stock-Analysis-using-NLP (ML)
+3. Netflix-Clone: https://github.com/shivam017arora/NetflixApp (React.JS) 
+4. LinkedIn-Clone: https://github.com/shivam017arora/LinkedInApp (React.JS with Redux and Firestore) 
 
 Currently Learning.
 <li> Web3 </li>
