@@ -8,23 +8,16 @@ About.
 3. Tools I use: Python, JavaScript and SQL. 
 
 Core.
-1. ✨ Top 1 in in-class Kaggle Competition at University. 
-2. 💡 Top 1% Solution in Sales Forecasting: https://www.kaggle.com/code/shivam017arora/rossmann-sales-prediction-top-1-solution 
-3. Technical Skills: MLOps, Data-Pipelines, Dashboard/Data-Viz, Full-Stack-Dev, Data-Analytics
-4. Soft Skills: Communication, Intellectual Curiosity, Business Acumen
-
-Projects.
-1. Customer-Segmenting-Scoring: https://github.com/shivam017arora/Customer-Segmentation-using-RFM (ML)
-2. Stock-Analysis-using-NLP: https://github.com/shivam017arora/Stock-Analysis-using-NLP (ML)
-3. Netflix-Clone: https://github.com/shivam017arora/NetflixApp (React.JS) 
-4. LinkedIn-Clone: https://github.com/shivam017arora/LinkedInApp (React.JS with Redux and Firestore) 
+1. 💡 Top 1% Solution in Sales Forecasting: https://www.kaggle.com/code/shivam017arora/rossmann-sales-prediction-top-1-solution 
+2. Technical Skills: MLOps, Data-Science, Data-Viz, Full-Stack-Dev, Data-Analytics
+3. Soft Skills: Communication, Intellectual Curiosity, Business Acumen
 
 Currently Learning.
 <li> Web3 </li>
-<li> NLP Development </li>
+<li> NLP Engineering </li>
 <br>
 
-Connect.
+📫 How to reach me: ...
 <li> Email: arorashivam@protonmail.com </li>
 <li> LinkedIn: https://www.linkedin.com/in/shivam017arora/  </li>
 <li> Medium: https://medium.com/@shivam017arora </li>
