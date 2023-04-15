@@ -1,20 +1,15 @@
 ### Hi there 👋
 
-I'm Shivam, an experienced data scientist from New Delhi. Check out my portfolio at https://thearorashivam.web.app
+I'm Shivam, an experienced blockend develoepr from New Delhi. Check out my portfolio at https://shivam-azure.vercel.app
 
-About.
-1. Software engineer turned data scientist
+🔭 About.
+1. Passionate for decentralised technology
 2. First worked in analytics as a data analyst(in EY) in Nov/2019
-3. Tools I use: Python, JavaScript and SQL. 
+4. Tools I use: Python, JavaScript and Solidity. 
 
-Core.
-1. 💡 Top 1% Solution in Sales Forecasting: https://www.kaggle.com/code/shivam017arora/rossmann-sales-prediction-top-1-solution 
-2. Technical Skills: MLOps, Data-Science, Data-Viz, Full-Stack-Dev, Data-Analytics
-3. Soft Skills: Communication, Intellectual Curiosity, Business Acumen
-
-Currently Learning.
-<li> Web3 </li>
-<li> NLP Engineering </li>
+🌱 Currently Learning.
+<li> DeFi </li>
+<li> NFT Gaming </li>
 <br>
 
 📫 How to reach me: ...
