@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Shivam, an experienced blockend develoepr from New Delhi. Check out my portfolio at https://shivam-azure.vercel.app
+I'm Shivam, an experienced blockend developer from New Delhi. Check out my portfolio at https://shivam-azure.vercel.app
 
 🔭 About.
 1. Passionate for decentralised technology
