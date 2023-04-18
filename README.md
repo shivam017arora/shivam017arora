@@ -4,17 +4,18 @@ I'm Shivam, an experienced data scientist from New Delhi. Check out my portfolio
 
 About.
 
-Software engineer turned data scientist
-First worked in analytics as a data analyst(in EY) in Nov/2019
-Tools I use: Python, JavaScript and SQL.
+1. Software engineer turned data scientist
+2. First worked in analytics as a data analyst(in EY) in Nov/2019
+3. Tools I use: Python, JavaScript and SQL.
+
 Core.
 
-💡 Top 1% Solution in Sales Forecasting: https://www.kaggle.com/code/shivam017arora/rossmann-sales-prediction-top-1-solution
 Technical Skills: MLOps, Data-Science, Data-Viz, Full-Stack-Dev, Data-Analytics
 Soft Skills: Communication, Intellectual Curiosity, Business Acumen
+
 Currently Learning.
 
-Web3
+Blockchain Analytics
 NLP Engineering
 
 📫 How to reach me: ...
