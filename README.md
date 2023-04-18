@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-I'm Shivam, an experienced blockend developer from New Delhi. Check out my portfolio at https://shivam-azure.vercel.app
+I'm Shivam, an experienced data scientist from New Delhi. Check out my portfolio at https://thearorashivam.web.app
 
-🔭 About.
-1. Passionate for decentralised technology
-2. First worked in analytics as a data analyst(in EY) in Nov/2019
-4. Tools I use: Python, JavaScript and Solidity. 
+About.
 
-🌱 Currently Learning.
-<li> DeFi </li>
-<li> NFT Gaming </li>
-<br>
+Software engineer turned data scientist
+First worked in analytics as a data analyst(in EY) in Nov/2019
+Tools I use: Python, JavaScript and SQL.
+Core.
+
+💡 Top 1% Solution in Sales Forecasting: https://www.kaggle.com/code/shivam017arora/rossmann-sales-prediction-top-1-solution
+Technical Skills: MLOps, Data-Science, Data-Viz, Full-Stack-Dev, Data-Analytics
+Soft Skills: Communication, Intellectual Curiosity, Business Acumen
+Currently Learning.
+
+Web3
+NLP Engineering
 
 📫 How to reach me: ...
 <li> Email: arorashivam@protonmail.com </li>
