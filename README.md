@@ -15,8 +15,8 @@ Soft Skills: Communication, Intellectual Curiosity, Business Acumen
 
 Currently Learning.
 
-Blockchain Analytics
-NLP Engineering
+1. Blockchain Analytics
+2. NLP Engineering
 
 📫 How to reach me: ...
 <li> Email: arorashivam@protonmail.com </li>
