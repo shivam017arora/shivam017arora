@@ -3,6 +3,7 @@
 ### Hi there 👋
 
 I'm Shivam, an experienced Data Scientist, pursuing Masters in Business Analytics.
+</div>
 
 About.
 
@@ -11,7 +12,8 @@ About.
 3. Tools I use: Python, JavaScript and Machine Learning.
   
 Currently Learning.
+
 1. DeFi Protocols
 2. Blockchain Analytics
 
-</div>
+
