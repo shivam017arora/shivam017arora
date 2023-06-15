@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Shivam, a Data Scientist, currently pursuing Masters in Finance.
+I'm Shivam, a Data Scientist from New Delhi, currently pursuing Masters in Finance in UCW.
 </div>
 
 About.
