@@ -23,8 +23,5 @@
 Machine Learning Engineer, currently pursuing MBA in Finance at [UCW](https://www.ucanwest.ca/graduate-programs/master-of-business-administration/).<br/>
 3+ years of experience in Data Science, first worked as a Data Analyst in [EY](https://www.ey.com/en_in/careers/global-delivery-services). 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam017arora)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
