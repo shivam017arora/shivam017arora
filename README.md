@@ -20,13 +20,12 @@
 </div>
 <br/>
 
-### Hacking
-<div align="center">
-![df0f6e6c-1cec-4a6a-bd8d-aee966513283](https://github.com/shivam017arora/shivam017arora/assets/26146104/1c4ea770-9fc8-4368-8a6a-0dcb6e09cfc1)
-</div>
-
 Machine Learning Engineer, currently pursuing MBA in Finance at [UCW](https://www.ucanwest.ca/graduate-programs/master-of-business-administration/).<br/>
 3+ years of experience in Data Science, first worked as a Data Analyst in [EY](https://www.ey.com/en_in/careers/global-delivery-services). 
 
-
-
+### Hacking
+<div align="">
+  <a href="https://app.poap.xyz/token/6767391">
+  <img src="https://assets.poap.xyz/df0f6e6c-1cec-4a6a-bd8d-aee966513283.png" width="100" height="100"/>
+    </a>
+</div>
