@@ -20,6 +20,11 @@
 </div>
 <br/>
 
+### Hacking
+<div align="center">
+![image](https://github.com/shivam017arora/shivam017arora/assets/26146104/b3cc1857-57e2-42bf-86c2-738bca7d1bc9)
+</div>
+
 Machine Learning Engineer, currently pursuing MBA in Finance at [UCW](https://www.ucanwest.ca/graduate-programs/master-of-business-administration/).<br/>
 3+ years of experience in Data Science, first worked as a Data Analyst in [EY](https://www.ey.com/en_in/careers/global-delivery-services). 
 
