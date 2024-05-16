@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋 I'm Shivam Arora. 
-* Learning DeFi and Blockchain Analytics
+* Learning ML and LLMOps
 
 <div align="center">
   
