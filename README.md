@@ -1,7 +1,6 @@
 
 
 ### Hi there 👋 I'm Shivam Arora. 
-* Learning ML and LLMOps
 
 <div align="center">
   
