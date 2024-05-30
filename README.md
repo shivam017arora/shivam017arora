@@ -17,6 +17,8 @@
 </div>
 <br/>
 
+Machine Learning Engineer, currently pursuing MBA in Business Analytics at [UCW](https://www.ucanwest.ca/graduate-programs/master-of-business-administration/).<br/>
+
 ### Hacking
 <div align="">
   <a href="https://app.poap.xyz/token/6767391">
