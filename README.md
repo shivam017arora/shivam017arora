@@ -1,5 +1,3 @@
-
-
 ### Hi there 👋 I'm Shivam Arora. 
 
 <div align="center">
@@ -18,9 +16,6 @@
         </a>
 </div>
 <br/>
-
-Machine Learning Engineer, currently pursuing MBA in Business Analytics at [UCW](https://www.ucanwest.ca/graduate-programs/master-of-business-administration/).<br/>
-3+ years of experience in Data Science, first worked as a Data Analyst in [EY](https://www.ey.com/en_in/careers/global-delivery-services). 
 
 ### Hacking
 <div align="">
