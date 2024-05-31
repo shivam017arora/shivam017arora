@@ -40,6 +40,6 @@ Machine Learning Engineer, currently pursuing MBA in Business Analytics at [UCW]
 ## Connect With Me:
 
 <p align="left">
-<a href="https://twitter.com/Shivam017arora0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mtc0750" height="30" width="40" /></a>
+<a href="https://twitter.com/Shivam017arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mtc0750" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivam017arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvirc" height="30" width="40" /></a>
 </p>
