@@ -27,10 +27,6 @@ Machine Learning Engineer, currently pursuing MBA in Business Analytics at [UCW]
     </a>
 </div>
 
-
-### Stack Exchange
-<img width="353" alt="Screenshot 2023-09-22 at 3 08 24 PM" src="https://github.com/shivam017arora/shivam017arora/assets/26146104/c565b2fb-b717-4ded-b46a-68c1bec1adb7">
-
 ### Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam017arora)](https://github.com/anuraghazra/github-readme-stats)
