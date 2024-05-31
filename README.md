@@ -30,3 +30,16 @@ Machine Learning Engineer, currently pursuing MBA in Business Analytics at [UCW]
 
 ### Stack Exchange
 <img width="353" alt="Screenshot 2023-09-22 at 3 08 24 PM" src="https://github.com/shivam017arora/shivam017arora/assets/26146104/c565b2fb-b717-4ded-b46a-68c1bec1adb7">
+
+### Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam017arora)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam017arora&layout=compact) 
+
+
+## Connect With Me:
+
+<p align="left">
+<a href="https://twitter.com/Shivam017arora0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mtc0750" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivam017arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvirc" height="30" width="40" /></a>
+</p>
