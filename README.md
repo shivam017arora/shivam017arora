@@ -14,7 +14,7 @@
 </div>
 <br/>
 
-Machine Learning Engineer, currently pursuing MBA in Business Analytics at [UCW](https://www.ucanwest.ca/graduate-programs/master-of-business-administration/).<br/>
+Machine Learning Engineer, recemt MBA graduate in Business Analytics at [UCW](https://www.ucanwest.ca/graduate-programs/master-of-business-administration/).<br/>
 3+ years of experience, first worked as a Data Analyst in [EY](https://www.ey.com/en_in/careers/global-delivery-services). 
 
 ### Hacking
